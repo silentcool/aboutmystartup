@@ -1,5 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.js"></script>
-
 
 // Create a variable for the API endpoint. In this example, we're accessing Xano's API
 let xanoUrl = new URL('https://x8ki-letl-twmt.n7.xano.io/api:3MPn7XpL/'); 
